@@ -81,7 +81,8 @@ mcp dev excel_analytics_server.py
 
 ## Step 5: Done!
 - Try it in Claude!
-
+  
+![image](https://github.com/LindseyyyLi/MCP-Server/blob/main/img/sample_use.png)
 
 
 
