@@ -55,6 +55,10 @@ uv add "mcp[cli]" httpx
 
 ## Step 2: Create the MCP Server
 - Place the file excel_analytics_server.py under the directory data_analysis_tool
+- Run
+```
+pip install "mcp[cli]" pandas matplotlib openpyxl
+```
 
 ## Step 3: Test the Server
 ```
