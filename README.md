@@ -58,7 +58,7 @@ uv add "mcp[cli]" httpx
 
 ## Step 3: Test the Server
 ```
-mcp dev txt_counter.py
+mcp dev excel_analytics_server.py
 ```
 
 ## Step 4: Connect MCP to Claude
