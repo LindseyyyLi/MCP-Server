@@ -1,5 +1,5 @@
 # MCP-Server for Data Analysis
-This server mainly focuses on the tools. FastMCP is used to define and run the server, as well as to expose each tool as an endpoint.
+This server mainly focuses on the tools. It also includes some demos of resources and prompt. FastMCP is used to define and run the server, as well as to expose each tool as an endpoint.
 
 # Features
 - Read excel file from the desktop
@@ -91,6 +91,18 @@ mcp dev excel_analytics_server.py
 ### Sample 3:
 ![image](https://github.com/LindseyyyLi/MCP-Server/blob/main/img/sample_use2.png)
 
+
+# Resources
+Demo:
+https://github.com/user-attachments/assets/6bf023ae-7d73-4bfb-95dd-d648a19133a1
+
+
+
+
+
+# Prompt
+Demo:
+https://github.com/user-attachments/assets/59596eae-b8d1-4e5f-951b-15d94d8d261f
 
 
 
